@@ -1,8 +1,8 @@
 # Data Clean Rooms
 
-## Guidance and Recommended Practices
+### Guidance and Recommended Practices
 
-## Version 1.0
+### Version 1.0
 
 © 2023 IAB Technology Laboratory
 
@@ -87,37 +87,37 @@ THE STANDARDS, THE SPECIFICATIONS, THE MEASUREMENT GUIDELINES, AND ANY OTHER MAT
 
 # Table of Contents
 
-About this document	2
+[About this document](https://github.com/InteractiveAdvertisingBureau/Data-Clean-Rooms/blob/main/DCR-Guidance.md#about-this-document)
 
-Glossary	5
+[Glossary](https://github.com/InteractiveAdvertisingBureau/Data-Clean-Rooms/blob/main/DCR-Guidance.md#glossary)
 
-1.	Introduction: Why Data Clean Rooms?	8
+[1.	Introduction: Why Data Clean Rooms?](https://github.com/InteractiveAdvertisingBureau/Data-Clean-Rooms/blob/main/DCR-Guidance.md#1introduction-why-data-clean-rooms)
 
-2.	What is a Data Clean Room?	10
+[2.	What is a Data Clean Room?](https://github.com/InteractiveAdvertisingBureau/Data-Clean-Rooms/blob/main/DCR-Guidance.md#2what-is-a-data-clean-room)
 
-3.	What can you do with a Data Clean Room?	12
+[3.	What can you do with a Data Clean Room?](https://github.com/InteractiveAdvertisingBureau/Data-Clean-Rooms/blob/main/DCR-Guidance.md#3what-can-you-do-with-a-data-clean-room)
 	
-  Addressable Identity and Audience activation	12
+  [Addressable Identity and Audience activation](https://github.com/InteractiveAdvertisingBureau/Data-Clean-Rooms/blob/main/DCR-Guidance.md#addressable-identity-and-audience-activation)
 	
-  Customer insights and Data enrichment	13
+  [Customer insights and Data enrichment](https://github.com/InteractiveAdvertisingBureau/Data-Clean-Rooms/blob/main/DCR-Guidance.md#customer-insights-and-data-enrichment)
 	
-  Optimization and Measurement	14
+  [Optimization and Measurement](https://github.com/InteractiveAdvertisingBureau/Data-Clean-Rooms/blob/main/DCR-Guidance.md#optimization-and-measurement)
 
-4.	How does a Data Clean Room work?	16
+[4.	How does a Data Clean Room work?](https://github.com/InteractiveAdvertisingBureau/Data-Clean-Rooms/blob/main/DCR-Guidance.md#4-how-does-a-data-clean-room-work)
 
-  Data Clean Room Roles	16
+  [Data Clean Room Roles](https://github.com/InteractiveAdvertisingBureau/Data-Clean-Rooms/blob/main/DCR-Guidance.md#data-clean-room-roles)
 
-  Data Clean Room Operations	17
+  [Data Clean Room Operations](https://github.com/InteractiveAdvertisingBureau/Data-Clean-Rooms/blob/main/DCR-Guidance.md#data-clean-room-operations)
 
-5.	What protections do Data Clean Rooms provide?	21
+[5.	What protections do Data Clean Rooms provide?](https://github.com/InteractiveAdvertisingBureau/Data-Clean-Rooms/blob/main/DCR-Guidance.md#5-what-protections-do-data-clean-rooms-provide)
 
-  Data privacy	21
+  [Data privacy](https://github.com/InteractiveAdvertisingBureau/Data-Clean-Rooms/blob/main/DCR-Guidance.md#data-privacy)
 
-  Data governance	22
+  [Data governance](https://github.com/InteractiveAdvertisingBureau/Data-Clean-Rooms/blob/main/DCR-Guidance.md#data-governance)
 
-6.	What are the limitations and constraints of a Data Clean Room	24
+[6.	What are the limitations and constraints of a Data Clean Room](https://github.com/InteractiveAdvertisingBureau/Data-Clean-Rooms/blob/main/DCR-Guidance.md#6-what-are-the-limitations-and-constraints-of-a-data-clean-room)
 
-7.	How to select a Data Clean Room that’s right for you	26
+[7.	How to select a Data Clean Room that’s right for you](https://github.com/InteractiveAdvertisingBureau/Data-Clean-Rooms/blob/main/DCR-Guidance.md#7-how-to-select-a-data-clean-room-thats-right-for-you)
 
 ## 1.	Introduction: Why Data Clean Rooms?
 
