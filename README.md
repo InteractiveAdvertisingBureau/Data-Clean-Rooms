@@ -1,4 +1,4 @@
-![IAB Tech Lab](https://drive.google.com/uc?id=10yoBoG5uRETSXRrnJPUDuONujvADrSG1)
+![IAB Tech Lab](https:// pub-1958447923404693)
 
 # Data Clean Rooms Guidance
 
